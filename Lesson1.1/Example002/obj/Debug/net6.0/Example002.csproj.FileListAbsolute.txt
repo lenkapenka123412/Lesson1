@@ -1,0 +1,15 @@
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\bin\Debug\net6.0\Example002.exe
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\bin\Debug\net6.0\Example002.deps.json
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\bin\Debug\net6.0\Example002.runtimeconfig.json
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\bin\Debug\net6.0\Example002.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\bin\Debug\net6.0\Example002.pdb
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\obj\Debug\net6.0\Example002.csproj.AssemblyReference.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\obj\Debug\net6.0\Example002.GeneratedMSBuildEditorConfig.editorconfig
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\obj\Debug\net6.0\Example002.AssemblyInfoInputs.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\obj\Debug\net6.0\Example002.AssemblyInfo.cs
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\obj\Debug\net6.0\Example002.csproj.CoreCompileInputs.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\obj\Debug\net6.0\Example002.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\obj\Debug\net6.0\refint\Example002.dll
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\obj\Debug\net6.0\Example002.pdb
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\obj\Debug\net6.0\Example002.genruntimeconfig.cache
+D:\ГИКБРЕЙС\Знакомство с языками программирования (лекции)\Lesson_1\Lesson1.1\Example002\obj\Debug\net6.0\ref\Example002.dll
